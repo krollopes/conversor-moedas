@@ -16,24 +16,22 @@ Este é um projeto de conversor de moedas desenvolvido com React e Vite. Ele per
 
 ## Estrutura do Projeto
 
-```filetree
 currency-converter
 └── public
-    └── index.html
+└── index.html
 └── src
-    ├── App.jsx
-    ├── App.css
-    ├── index.js
-    ├── api
-    │   └── currencyApi.js
-    ├── components
-    │   └── CurrencyConverter.jsx
-    ├── hooks
-    │   └── useCurrencyConverter.js
-    └── services
-        └── currencyService.js
+  ├── App.jsx
+  ├── App.css
+  ├── index.js
+  ├── api
+  │ └── currencyApi.js
+  ├── components
+  │ └── CurrencyConverter.jsx
+  ├── hooks
+  │ └── useCurrencyConverter.js
+  └── services
+  └── currencyService.js
 
-currency-converter └── public └── index.html └── src ├── App.jsx ├── App.css ├── index.js ├── api │ └── currencyApi.js ├── components │ └── CurrencyConverter.jsx ├── hooks │ └── useCurrencyConverter.js └── services └── currencyService.js
 
 ## Instalação
 
